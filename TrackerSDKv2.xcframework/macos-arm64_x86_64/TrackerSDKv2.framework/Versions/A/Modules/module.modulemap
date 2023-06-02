@@ -1,0 +1,6 @@
+framework module TrackerSDKv2 {
+  umbrella header "TrackerSDKv2.h"
+
+  export *
+  module * { export * }
+}
