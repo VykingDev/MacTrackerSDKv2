@@ -1,3 +1,3 @@
 # MacTrackerSDKv2
 
-A description of this package.
+TrackerSDKv2 for OSX
